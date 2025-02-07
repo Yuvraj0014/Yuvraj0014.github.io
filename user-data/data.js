@@ -1,6 +1,6 @@
 export const bio = [
-  "<strong>Welcome to my portfolio! I'm Yuvrsj Muthyala.</strong>",
-  "<strong>Driven to unlock insights as a Data Science & AI/ML Engineer enthusiast</strong>", 
+  "<strong>Welcome to my portfolio! I'm Yuvraj Muthyala.</strong>",
+  "<strong>Driven to unlock insights as a Data Science & AI/ML enthusiast</strong>", 
   "With a passion for understanding complex systems, I've found my calling in data science, where I can unravel patterns and uncover meaningful connections.",
   "I'm excited to leverage data-driven approaches to drive decision-making and solve real-world problems, and I'm always on the lookout for innovative projects to collaborate on.",
   "Proficient in a range of data science disciplines, including Machine Learning, Deep Learning, NLP, and GenAI, with a solid grasp of statistical concepts and programming fundamentals.",
@@ -16,8 +16,8 @@ export const skills = [
 export const experience = [
   {
     title: "Embrizon Technologies",
-    // duration: "Internship Duration",
-    subtitle: "Data Science Intern",
+    duration: "Intern",
+    subtitle: "Data Science",
     details: [
       "Received comprehensive training on Python, machine learning, and deep learning, which covered topics like data preprocessing, feature engineering, model selection, and hyperparameter tuning.",
       "Worked on a project to detect Capuchin bird calls using spectrogram analysis and convolutional neural networks (CNNs), which involved collecting and preprocessing a dataset of bird calls, selecting relevant features, training the model, and evaluating its performance using metrics like accuracy, precision, and recall.",
@@ -29,8 +29,8 @@ export const experience = [
   },
   {
     title: "InternPE",
-    // duration: "Internship Duration",
-    subtitle: "AI/ML Intern",
+    duration: "Intern",
+    subtitle: "AI/ML",
     details: [
       "Designed and developed a machine learning model for diabetes prediction, which involved collecting and preprocessing a dataset of health records, selecting relevant features, training a supervised learning algorithm, and evaluating the model's performance using metrics like accuracy, precision, and recall.",
       "Developed a car price prediction model using a regression algorithm, which required gathering a dataset of car features and prices, preprocessing the data, selecting the most relevant features, training the model, and evaluating its performance using metrics like mean squared error and R-squared.",
